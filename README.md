@@ -1,8 +1,8 @@
 # ✨ Hello there!
 
-  🎓 BS in computer engineering at [University of Pisa](https://www.unipi.it/)
+  🎓 BS in Computer Engineering at [University of Pisa](https://www.unipi.it/)
 
-  🎓 Currently studying Artificial Intelligence and Data Engineering at [University of Pisa](https://www.unipi.it/)
+  🎓 Currently studying for the Artificial Intelligence and Data Engineering MD at [University of Pisa](https://www.unipi.it/)
 
   🔎 Researching in deep learning for affective computing and audio processing
 
