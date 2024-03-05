@@ -48,5 +48,9 @@
 
 ## Stats
 
-![Ettore Ricci's GitHub stats](https://github-readme-stats.vercel.app/api?username=etto48&show_icons=true&theme=tokyonight)
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=etto48&show_icons=true&locale=en&layout=compact&theme=tokyonight)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Etto48&card_width=200&theme=dark" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Etto48&layout=compact&langs_count=8&card_width=410&theme=dark" />
+</a>
