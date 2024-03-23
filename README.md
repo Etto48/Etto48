@@ -10,6 +10,10 @@
 
   🧩 Interested in AI, P2P and Cyber Security
 
+  ❤️ I love Rust <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/rust/rust-original.svg" alt="Rust" width=15/>
+
+  🤮 I hate Java <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/java/java-original.svg" alt="Java" width=15/>
+
 <h2 align="center">Skills</h1>
 
 <h3 align="center">Languages</h3>
