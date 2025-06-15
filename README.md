@@ -21,18 +21,14 @@
 <div align="center">
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/c/c-original.svg" alt="C" width=40/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/cplusplus/cplusplus-original.svg" alt="C" width=40/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/csharp/csharp-original.svg" alt="C#" width=40/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/rust/rust-original.svg" alt="Rust" width=40/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/python/python-original.svg" alt="Python" width=40/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/godot/godot-original.svg" alt="Godot" width=40/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/javascript/javascript-original.svg" alt="JavaScript" width=40/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/html5/html5-original.svg" alt="HTML" width=40/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/css3/css3-original.svg" alt="CSS" width=40/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/java/java-original.svg" alt="Java" width=40/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/arduino/arduino-original.svg" alt="Arduino" width=40/>
-
+<img alt="Rust" src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=Rust">
+<img alt="Python" src="https://img.shields.io/badge/Python-%23ffda4a?style=for-the-badge&logo=python">
+<img alt="C" src="https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c&logoColor=white">
+<img alt="C++" src="https://img.shields.io/badge/C%2B%2B-blue?style=for-the-badge&logo=c%2B%2B">
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript">
+<img alt="HTML" src="https://img.shields.io/badge/HTML-white?style=for-the-badge&logo=html5">
+<img alt="CSS" src="https://img.shields.io/badge/CSS-white?style=for-the-badge&logo=css&logoColor=blue">
+<img alt="Java" src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk">
 </div>
 </div>
 
@@ -41,17 +37,15 @@
 <div align="center">
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/pytorch/pytorch-original.svg" alt="Pytorch" width=40/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/tensorflow/tensorflow-original.svg" alt="Tensorflow" width=40/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/flask/flask-original.svg" alt="Flask" width=40/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mongodb/mongodb-original.svg" alt="MongoDB" width=40/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/neo4j/neo4j-original.svg" alt="Neo4j" width=40/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/redis/redis-original.svg" alt="Redis" width=40/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mysql/mysql-original.svg" alt="Mysql" width=40/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/jquery/jquery-original.svg" alt="Jquery" width=40/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/blender/blender-original.svg" alt="Blender" width=40/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/bash/bash-original.svg" alt="Bash" width=40/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/git/git-original.svg" alt="Git" width=40/>
+<img alt="Static Badge" src="https://img.shields.io/badge/Pytorch-white?style=for-the-badge&logo=pytorch">
+<img alt="Static Badge" src="https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask">
+<img alt="Static Badge" src="https://img.shields.io/badge/MongoDB-%234aa73c?style=for-the-badge&logo=mongodb&logoColor=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/Neo4j-blue?style=for-the-badge&logo=neo4j&logoColor=black">
+<img alt="Static Badge" src="https://img.shields.io/badge/Redis-white?style=for-the-badge&logo=redis">
+<img alt="Static Badge" src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/Blender-%23e87500?style=for-the-badge&logo=blender&logoColor=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnubash&logoColor=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/GIT-%23f34f29?style=for-the-badge&logo=git&logoColor=white">
 
 </div>
 </div>
