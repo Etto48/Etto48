@@ -37,15 +37,16 @@
 <div align="center">
 <div align="center">
 
-<img alt="Static Badge" src="https://img.shields.io/badge/Pytorch-white?style=for-the-badge&logo=pytorch">
-<img alt="Static Badge" src="https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask">
-<img alt="Static Badge" src="https://img.shields.io/badge/MongoDB-%234aa73c?style=for-the-badge&logo=mongodb&logoColor=white">
-<img alt="Static Badge" src="https://img.shields.io/badge/Neo4j-blue?style=for-the-badge&logo=neo4j&logoColor=black">
-<img alt="Static Badge" src="https://img.shields.io/badge/Redis-white?style=for-the-badge&logo=redis">
-<img alt="Static Badge" src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white">
-<img alt="Static Badge" src="https://img.shields.io/badge/Blender-%23e87500?style=for-the-badge&logo=blender&logoColor=white">
-<img alt="Static Badge" src="https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnubash&logoColor=white">
-<img alt="Static Badge" src="https://img.shields.io/badge/GIT-%23f34f29?style=for-the-badge&logo=git&logoColor=white">
+<img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-white?style=for-the-badge&logo=pytorch">
+<img alt="Flask" src="https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask">
+<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234aa73c?style=for-the-badge&logo=mongodb&logoColor=white">
+<img alt="Neo4j" src="https://img.shields.io/badge/Neo4j-blue?style=for-the-badge&logo=neo4j&logoColor=black">
+<img alt="Redis" src="https://img.shields.io/badge/Redis-white?style=for-the-badge&logo=redis">
+<img alt="MySQL" src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white">
+<img alt="Blender" src="https://img.shields.io/badge/Blender-%23e87500?style=for-the-badge&logo=blender&logoColor=white">
+<img alt="Bash" src="https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnubash&logoColor=white">
+<img alt="GIT" src="https://img.shields.io/badge/GIT-%23f34f29?style=for-the-badge&logo=git&logoColor=white">
+<img alt="Latex" src="https://img.shields.io/badge/Latex-%2325c2a0?style=for-the-badge&logo=latex">
 
 </div>
 </div>
