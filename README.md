@@ -26,6 +26,7 @@
 <img alt="C" src="https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c&logoColor=white">
 <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-blue?style=for-the-badge&logo=c%2B%2B">
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript">
+<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript">
 <img alt="HTML" src="https://img.shields.io/badge/HTML-white?style=for-the-badge&logo=html5">
 <img alt="CSS" src="https://img.shields.io/badge/CSS-white?style=for-the-badge&logo=css&logoColor=blue">
 <img alt="Java" src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk">
@@ -38,7 +39,9 @@
 <div align="center">
 
 <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-white?style=for-the-badge&logo=pytorch">
+<img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-black?style=for-the-badge&logo=fastapi">
 <img alt="Flask" src="https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask">
+<img alt="React" src="https://img.shields.io/badge/react-black?style=for-the-badge&logo=react">
 <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234aa73c?style=for-the-badge&logo=mongodb&logoColor=white">
 <img alt="Neo4j" src="https://img.shields.io/badge/Neo4j-blue?style=for-the-badge&logo=neo4j&logoColor=black">
 <img alt="Redis" src="https://img.shields.io/badge/Redis-white?style=for-the-badge&logo=redis">
