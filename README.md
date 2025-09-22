@@ -42,6 +42,7 @@
 <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-black?style=for-the-badge&logo=fastapi">
 <img alt="Flask" src="https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask">
 <img alt="React" src="https://img.shields.io/badge/react-black?style=for-the-badge&logo=react">
+<img alt="Vue" src="https://img.shields.io/badge/vue-black?style=for-the-badge&logo=vue.js">
 <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234aa73c?style=for-the-badge&logo=mongodb&logoColor=white">
 <img alt="Neo4j" src="https://img.shields.io/badge/Neo4j-blue?style=for-the-badge&logo=neo4j&logoColor=black">
 <img alt="Redis" src="https://img.shields.io/badge/Redis-white?style=for-the-badge&logo=redis">
