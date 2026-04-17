@@ -2,9 +2,9 @@
 
 <h2 align="center">About me</h2>
 
-  🎓 Bachelor's degree in Computer Engineering at [University of Pisa](https://www.unipi.it/)
+  🎓 Bachelor's Degree in Computer Engineering at [University of Pisa](https://www.unipi.it/)
 
-  🎓 Currently studying for the Artificial Intelligence and Data Engineering Master's degree at [University of Pisa](https://www.unipi.it/)
+  🎓 Master's Degree in Artificial Intelligence and Data Engineering at [University of Pisa](https://www.unipi.it/)
 
   🔎 Researching in deep learning for affective computing and audio processing
 
