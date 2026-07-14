@@ -59,7 +59,7 @@
 
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=180 align="center" src="https://github-stats-extended.vercel.app/api?username=Etto48&card_width=200&theme=dark" />
+  <img height=180 align="center" src="https://github-stats-extended.vercel.app/api?username=Etto48&card_width=400&theme=dark" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=180 align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=Etto48&layout=compact&langs_count=8&card_width=410&theme=dark" />
