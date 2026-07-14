@@ -6,7 +6,7 @@
 
   🎓 Master's Degree in Artificial Intelligence and Data Engineering at [University of Pisa](https://www.unipi.it/)
 
-  🔎 Researching in deep learning for affective computing and audio processing
+  🔎 Researched in deep learning for affective computing and audio processing
 
   🧩 Interested in AI, P2P and Cyber Security
 
@@ -59,9 +59,9 @@
 
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=Etto48&card_width=200&theme=dark" />
+  <img height=180 align="center" src="https://github-stats-extended.vercel.app/api?username=Etto48&card_width=200&theme=dark" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Etto48&layout=compact&langs_count=8&card_width=410&theme=dark" />
+  <img height=180 align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=Etto48&layout=compact&langs_count=8&card_width=410&theme=dark" />
 </a>
 </p>
